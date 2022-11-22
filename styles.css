@@ -1,0 +1,26 @@
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Patrick Hand', cursive;*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    font-family: Tahoma;
+    font-size: 200%;
+
+}
+
+p {
+    color: red;
+    font-family: Arial;
+    font-size: 120%;
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+#element1 {
+    color: blue;
+}
